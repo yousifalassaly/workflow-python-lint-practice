@@ -1,4 +1,3 @@
-import pytest
 from calculator import add, multiply, divide
 
 def test_add():
